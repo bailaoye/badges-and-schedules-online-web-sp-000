@@ -4,4 +4,6 @@ end
 
 def batch_badge_creator(attendees)
   badges = []
+  badges << badge_maker(attendees)
 end
+
