@@ -15,4 +15,3 @@ def assign_rooms(attendees)
   count = 1
   attendees
 end
-
