@@ -13,5 +13,6 @@ end
 def assign_rooms(attendees)
   assignments = []
   count = 1
-  attendees
+  attendees.each do |attendee|
+    "Hello, #{attendee}! You'll be assigned to room #{count}!"
 end
