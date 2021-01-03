@@ -12,4 +12,7 @@ end
 
 def assign_rooms(attendees)
   assignments = []
+  count = 1
+  attendees
 end
+
